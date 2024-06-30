@@ -1,2 +1,2 @@
 # vantage-api
-This repository contains code that retrieves market data and performs basic analysis using the Alpha Vantage API.
+Uses the Alpha Vantage API to fetch market data and perform basic analysis.
